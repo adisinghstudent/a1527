@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit                     # Web UI framework
+torch==2.6.0                  # PyTorch for neural network
+numpy                          # Efficient array handling
+pandas                         # Data handling (optional but useful)
+
+# Visualization & Debugging
+matplotlib                     # Plotting graphs (optional for MCTS visualization)
+rich                            # Better logging
+tqdm                            # Progress bars for training
+seaborn                         # Optional, for better plotting
+
+# Deployment & Compatibility
+Pillow                          # Image processing (for background handling)
+watchdog                        # Ensures Streamlit auto-refresh works
+
+# Ensure compatibility with Python 3.12+
+python-dotenv                   # Manage environment variables (if needed)
