@@ -1,0 +1,10 @@
+2025-02-19 01:49:11,431 [INFO]: 🚀 Starting AlphaZero Training for Tic-Tac-Toe
+2025-02-19 01:49:11,814 [INFO]: 🤖 Best Move Selected by MCTS: (1, 2)
+2025-02-19 01:49:11,816 [INFO]: 🤖 Best Move Selected by MCTS: (0, 0)
+2025-02-19 01:49:11,818 [INFO]: 🤖 Best Move Selected by MCTS: (0, 1)
+2025-02-19 01:49:11,820 [INFO]: 🤖 Best Move Selected by MCTS: (0, 2)
+2025-02-19 01:49:11,823 [INFO]: 🤖 Best Move Selected by MCTS: (2, 1)
+2025-02-19 01:49:11,825 [INFO]: 🤖 Best Move Selected by MCTS: (2, 2)
+2025-02-19 01:49:11,827 [INFO]: 🤖 Best Move Selected by MCTS: (1, 0)
+2025-02-19 01:49:11,829 [INFO]: 🤖 Best Move Selected by MCTS: (1, 1)
+2025-02-19 01:49:11,858 [INFO]: 🏆 Episode 0: Winner = -1, Loss = 8.2014
