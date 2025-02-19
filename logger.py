@@ -20,5 +20,5 @@ logging.basicConfig(
         logging.StreamHandler()  # Prints to console
     ]
 )
-
+# Create a logger
 logger = logging.getLogger("AlphaZero")
